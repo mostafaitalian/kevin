@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//server/main_app/__init__.py=utf-8
+encoding//server/main_app/admin.py=utf-8
+encoding//server/main_app/logics/__init__.py=utf-8
+encoding//server/main_app/models.py=utf-8
+encoding//server/main_app/urls.py=utf-8
+encoding//server/main_app/views.py=utf-8
+encoding//server/settings/__init__.py=utf-8
+encoding//server/settings/components/__init__.py=utf-8
+encoding//server/settings/components/caches.py=utf-8
+encoding//server/settings/components/common.py=utf-8
+encoding//server/settings/components/csp.py=utf-8
+encoding//server/settings/environments/__init__.py=utf-8
+encoding//server/settings/environments/development.py=utf-8
+encoding//server/settings/environments/local.py=utf-8
+encoding//server/settings/environments/production.py=utf-8
+encoding/manage.py=utf-8
